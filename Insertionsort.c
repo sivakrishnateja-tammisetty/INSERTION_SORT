@@ -1,3 +1,4 @@
+INSERTION SORT: Takes an element and place it in a correct order.
 #include<stdio.h>
 void Insertion_sort(int *a,int n)
 {
